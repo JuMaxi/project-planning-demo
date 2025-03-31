@@ -1,2 +1,2 @@
 # project-planning-demo
-This repository contains a practice project planning to the Full Stack Development Bootcamp
+In this module, I learned how to prioritize tasks when developing a project. Created custom tags (must-have, should-have, and could-have), applied labels to user stories and changed board visibility.
